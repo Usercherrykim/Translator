@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Alamofire in Pods, no dependencies
+SwiftyJSON in Pods, no dependencies
+Pods-Translator in Pods, depends on:
+Alamofire in Pods (explicit)
+SwiftyJSON in Pods (explicit)
